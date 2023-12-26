@@ -3,7 +3,7 @@
 const nextConfig = {
   env: {
     name: 'k0m4n',
-    description: 'k0m4n store for Kasm supported workspaces.',
+    description: 'k0m4n store for Kasm workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://k0m4n.github.io/kasm_registry',
     contactUrl: 'https://k0m4n.github.io',
